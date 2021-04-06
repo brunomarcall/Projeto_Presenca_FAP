@@ -1,0 +1,14 @@
+Login
+Dado que acesso a página de login do portal do aluno;
+Quando submeto o meu login com n° da matrícula e senha;
+Então devo ser redirecionado para o portal educacional.
+
+Acessar o menu do portal
+Dado que acesso o mural do portal acadêmico;
+Quando clico no botão "menu";
+Então o menu lateral deve ficar visível.
+
+Acessar a aba de faltas
+Dado que acesso o menu do portal;
+Quando clico no botão "faltas";
+Então devo ser redirecionado para a aba de faltas.
